@@ -1,4 +1,4 @@
-# Install script for directory: /mnt/c/Users/charl/Desktop/TAF/CIR2/Qt/TP/TP3
+# Install script for directory: /mnt/c/Users/charl/Desktop/TAF/CIR2/Qt/TP/QTTP3
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/mnt/c/Users/charl/Desktop/TAF/CIR2/Qt/TP/TP3/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/mnt/c/Users/charl/Desktop/TAF/CIR2/Qt/TP/QTTP3/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
